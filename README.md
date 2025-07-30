@@ -18,3 +18,6 @@ This is a boilerplate React project built using [Vite](https://vitejs.dev/) with
 
 ```bash
 git clone https://github.com/kranand06/Vite-setup.git
+cd Vite-setup
+npm install
+npm run dev
