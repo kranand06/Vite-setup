@@ -21,3 +21,4 @@ git clone https://github.com/kranand06/Vite-setup.git
 cd Vite-setup
 npm install
 npm run dev
+rm -rf .git
